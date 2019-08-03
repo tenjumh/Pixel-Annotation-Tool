@@ -1,4 +1,7 @@
 # Pixel Annotation Tool
+이 툴을 간단히 소개하자면, semantic segmentation에 이미지를 학습시키려면 object별로 pixel을 구분하면 구분은 color 및 label등으로 한다.
+이 툴을 통하면 간단히? object 구분하는 label mask 이미지를 만들수 있고,
+my github에 Semantic-Segmentation에서 자신이 구현하고자 하는 Segmentation을 모델링 할 수 있다
 
 ## Using pixel annotation tool for generating mask
 
@@ -21,6 +24,7 @@
 
 참고 유튜브 (https://www.youtube.com/watch?v=tX-xcg5wY4U)
 
+사전에 하기와 같이 label과 rgb를 정의해놓으면 편할 것 같다.
 name,r,g,b
 Animal,64,128,64
 Archway,192,0,128
