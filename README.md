@@ -1,4 +1,6 @@
 # Pixel Annotation Tool
+출처 : https://github.com/abreheret/PixelAnnotationTool
+
 이 툴을 간단히 소개하자면, semantic segmentation에 이미지를 학습시키려면 object별로 pixel을 구분하면 구분은 color 및 label등으로 한다.
 이 툴을 통하면 간단히? object 구분하는 label mask 이미지를 만들수 있고,
 my github에 Semantic-Segmentation에서 자신이 구현하고자 하는 Segmentation을 모델링 할 수 있다
